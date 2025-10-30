@@ -2,7 +2,6 @@
 - 👀 I’m interested in data analysis, smart contracts and machine learning
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on -> nothing
-- 📫 How to reach me: finn.encke@gmail.com
 - ⚡ Fun fact: bananas are berrys
 
 <!---
